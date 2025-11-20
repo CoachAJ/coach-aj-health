@@ -21,6 +21,7 @@ export default function Header() {
               width={50} 
               height={50}
               className="object-contain"
+              unoptimized
             />
             <div className="text-xl md:text-2xl font-bold">
               <span className="text-health-blue">Coach AJ</span>
