@@ -2,6 +2,7 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 import { Menu, X } from 'lucide-react'
 
 export default function Header() {
@@ -13,9 +14,17 @@ export default function Header() {
     <header className="bg-white shadow-md sticky top-0 z-50">
       <nav className="container mx-auto px-4 py-4">
         <div className="flex justify-between items-center">
-          <Link href="/" className="flex items-center space-x-2">
-            <div className="text-2xl font-bold">
+          <Link href="/" className="flex items-center space-x-3">
+            <Image 
+              src="/images/logo.png" 
+              alt="Coach AJ Health" 
+              width={50} 
+              height={50}
+              className="object-contain"
+            />
+            <div className="text-xl md:text-2xl font-bold">
               <span className="text-health-blue">Coach AJ</span>
+              <span className="text-xs md:text-sm block text-gray-600">Wholistic Health Coach</span>
             </div>
           </Link>
 
