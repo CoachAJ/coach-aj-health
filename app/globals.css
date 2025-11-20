@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --blue-sky: #3CAADF;
+  --health-blue: #0068B3;
+  --tangy-yellow: #FFB81C;
+  --glorious-sunset: #F58A34;
+  --hot-chocolate: #784434;
+  --shade-grey: #58595B;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  @apply text-gray-900;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
