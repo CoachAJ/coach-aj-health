@@ -100,7 +100,7 @@ npm start
 - **Phone**: 307-381-1646
 - **Email**: aj@nutrienshelp.com
 - **Certified**: Wholistic Health Coach (CWHC)
-- **Website**: [Coach AJ Health](/)
+- **Website**: [https://ajhealthcoach.com](https://ajhealthcoach.com)
 
 ## License
 
