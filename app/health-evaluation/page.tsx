@@ -3,8 +3,8 @@ import { Metadata } from 'next'
 import { ClipboardCheck, UserCheck, TrendingUp, ExternalLink } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Personalized Health Evaluation | Coach AJ',
-  description: 'Get a comprehensive, personalized health assessment. Discover your nutritional deficiencies, understand your unique health challenges, and create an actionable plan with Coach AJ.',
+  title: 'FREE Personalized Health Evaluation | Coach AJ',
+  description: 'Get a FREE comprehensive, personalized health assessment. Discover your nutritional deficiencies, understand your unique health challenges, and create an actionable plan with Coach AJ.',
   keywords: 'health evaluation, personalized health assessment, nutritional deficiency testing, health coach consultation, holistic health evaluation, wellness assessment',
 }
 
@@ -16,10 +16,10 @@ export default function HealthEvaluationPage() {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl md:text-5xl font-bold mb-6">
-              Personalized Health Evaluation
+              FREE Personalized Health Evaluation
             </h1>
             <p className="text-xl md:text-2xl mb-8">
-              Discover the root causes of your health challenges and create a personalized roadmap to optimal wellness
+              Discover the root causes of your health challenges and create a personalized roadmap to optimal wellness - completely FREE
             </p>
             <a 
               href="https://myhealthevaluation.com/?ygid=102742703"
@@ -182,10 +182,10 @@ export default function HealthEvaluationPage() {
 
             <div className="bg-white p-8 rounded-xl shadow-lg text-center">
               <p className="text-xl text-gray-700 mb-6">
-                This comprehensive evaluation and personalized review session gives you clarity, direction, and a concrete action plan to transform your health.
+                This comprehensive evaluation and personalized review session is completely FREE and gives you clarity, direction, and a concrete action plan to transform your health.
               </p>
               <p className="text-lg text-gray-600 mb-8">
-                Unlike conventional medical approaches that can cost thousands with limited results, this evaluation addresses root causes and empowers you with lifelong knowledge.
+                Unlike conventional medical approaches that can cost thousands with limited results, this FREE evaluation addresses root causes and empowers you with lifelong knowledge.
               </p>
               <a 
                 href="https://myhealthevaluation.com/?ygid=102742703"

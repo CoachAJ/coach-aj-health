@@ -97,8 +97,9 @@ npm start
 
 ## Contact Information
 
-- **Phone**: 855-949-3377
-- **Email**: questions@dailywithdoc.com
+- **Phone**: 307-381-1646
+- **Email**: aj@nutrienshelp.com
+- **Certified**: Wholistic Health Coach (CWHC)
 - **Website**: [Coach AJ Health](/)
 
 ## License

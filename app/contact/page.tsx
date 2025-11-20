@@ -33,8 +33,8 @@ export default function ContactPage() {
                   <Phone className="w-8 h-8 text-white" />
                 </div>
                 <h3 className="text-xl font-bold mb-2 text-health-blue">Call Us</h3>
-                <a href="tel:855-949-3377" className="text-lg text-gray-700 hover:text-health-blue transition-colors">
-                  855-949-3377
+                <a href="tel:307-381-1646" className="text-lg text-gray-700 hover:text-health-blue transition-colors">
+                  307-381-1646
                 </a>
               </div>
 
@@ -43,8 +43,8 @@ export default function ContactPage() {
                   <Mail className="w-8 h-8 text-white" />
                 </div>
                 <h3 className="text-xl font-bold mb-2 text-glorious-sunset">Email Us</h3>
-                <a href="mailto:questions@dailywithdoc.com" className="text-lg text-gray-700 hover:text-glorious-sunset transition-colors">
-                  questions@dailywithdoc.com
+                <a href="mailto:aj@nutrienshelp.com" className="text-lg text-gray-700 hover:text-glorious-sunset transition-colors">
+                  aj@nutrienshelp.com
                 </a>
               </div>
 
@@ -66,9 +66,9 @@ export default function ContactPage() {
               </h2>
 
               <div className="bg-gradient-to-r from-health-blue to-blue-sky text-white p-8 rounded-xl">
-                <h3 className="text-2xl font-bold mb-4">Personalized Health Evaluation</h3>
+                <h3 className="text-2xl font-bold mb-4">FREE Personalized Health Evaluation</h3>
                 <p className="text-lg mb-4 text-blue-100">
-                  Get a comprehensive assessment of your health challenges and receive a customized protocol based on the Triangle of Disease framework.
+                  Get a FREE comprehensive assessment of your health challenges and receive a customized protocol based on the Triangle of Disease framework.
                 </p>
                 <a 
                   href="https://myhealthevaluation.com/?ygid=102742703"
@@ -86,10 +86,10 @@ export default function ContactPage() {
                   Experience cutting-edge frequency-based assessment via Zoom. Sessions last approximately 30-45 minutes (headset recommended).
                 </p>
                 <p className="text-lg mb-4">
-                  <strong>To schedule your AO Scan:</strong> Call 855-949-3377 or email to arrange your Zoom session.
+                  <strong>To schedule your AO Scan:</strong> Call 307-381-1646 or email to arrange your Zoom session.
                 </p>
                 <a 
-                  href="tel:855-949-3377"
+                  href="tel:307-381-1646"
                   className="bg-white text-glorious-sunset hover:bg-gray-100 px-6 py-3 rounded-lg font-semibold transition-colors inline-block"
                 >
                   Call to Schedule

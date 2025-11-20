@@ -32,7 +32,7 @@ export default function ResourcesPage() {
             </h2>
 
             <div className="grid md:grid-cols-2 gap-6">
-              <a href="https://propowerdrink.com/" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-br from-blue-50 to-blue-100 p-6 rounded-xl hover:shadow-lg transition-shadow border-2 border-transparent hover:border-health-blue">
+              <a href="https://propowerdrink.com/?uid=102742703" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-br from-blue-50 to-blue-100 p-6 rounded-xl hover:shadow-lg transition-shadow border-2 border-transparent hover:border-health-blue">
                 <div className="flex justify-between items-start mb-3">
                   <h3 className="text-xl font-bold text-health-blue">Pro Power Drink</h3>
                   <ExternalLink className="w-5 h-5 text-health-blue" />
@@ -40,7 +40,7 @@ export default function ResourcesPage() {
                 <p className="text-gray-700">Energy and performance support with plant-derived minerals and vitamins</p>
               </a>
 
-              <a href="https://clearbrainfog.com/" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-br from-blue-50 to-blue-100 p-6 rounded-xl hover:shadow-lg transition-shadow border-2 border-transparent hover:border-health-blue">
+              <a href="https://clearbrainfog.com/?uid=102742703" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-br from-blue-50 to-blue-100 p-6 rounded-xl hover:shadow-lg transition-shadow border-2 border-transparent hover:border-health-blue">
                 <div className="flex justify-between items-start mb-3">
                   <h3 className="text-xl font-bold text-health-blue">Clear Brain Fog</h3>
                   <ExternalLink className="w-5 h-5 text-health-blue" />
@@ -48,7 +48,7 @@ export default function ResourcesPage() {
                 <p className="text-gray-700">Mental clarity and cognitive support solutions</p>
               </a>
 
-              <a href="https://managestressnaturally.com/" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-br from-orange-50 to-orange-100 p-6 rounded-xl hover:shadow-lg transition-shadow border-2 border-transparent hover:border-glorious-sunset">
+              <a href="https://managestressnaturally.com/?uid=102742703" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-br from-orange-50 to-orange-100 p-6 rounded-xl hover:shadow-lg transition-shadow border-2 border-transparent hover:border-glorious-sunset">
                 <div className="flex justify-between items-start mb-3">
                   <h3 className="text-xl font-bold text-glorious-sunset">Manage Stress Naturally</h3>
                   <ExternalLink className="w-5 h-5 text-glorious-sunset" />
@@ -56,7 +56,7 @@ export default function ResourcesPage() {
                 <p className="text-gray-700">Natural solutions for stress management and adrenal support</p>
               </a>
 
-              <a href="https://tangytangerineliving.com/" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-br from-orange-50 to-orange-100 p-6 rounded-xl hover:shadow-lg transition-shadow border-2 border-transparent hover:border-glorious-sunset">
+              <a href="https://tangytangerineliving.com/?uid=102742703" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-br from-orange-50 to-orange-100 p-6 rounded-xl hover:shadow-lg transition-shadow border-2 border-transparent hover:border-glorious-sunset">
                 <div className="flex justify-between items-start mb-3">
                   <h3 className="text-xl font-bold text-glorious-sunset">Tangy Tangerine Living</h3>
                   <ExternalLink className="w-5 h-5 text-glorious-sunset" />
@@ -64,7 +64,7 @@ export default function ResourcesPage() {
                 <p className="text-gray-700">Complete information on the flagship Tangy Tangerine product</p>
               </a>
 
-              <a href="https://topshelfcollagen.com/" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-br from-yellow-50 to-yellow-100 p-6 rounded-xl hover:shadow-lg transition-shadow border-2 border-transparent hover:border-tangy-yellow">
+              <a href="https://topshelfcollagen.com/?uid=102742703" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-br from-yellow-50 to-yellow-100 p-6 rounded-xl hover:shadow-lg transition-shadow border-2 border-transparent hover:border-tangy-yellow">
                 <div className="flex justify-between items-start mb-3">
                   <h3 className="text-xl font-bold text-tangy-yellow">Top Shelf Collagen</h3>
                   <ExternalLink className="w-5 h-5 text-tangy-yellow" />
@@ -72,7 +72,7 @@ export default function ResourcesPage() {
                 <p className="text-gray-700">Premium collagen peptides for connective tissue, skin, and joint health</p>
               </a>
 
-              <a href="https://discoverselenium.com/" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-br from-yellow-50 to-yellow-100 p-6 rounded-xl hover:shadow-lg transition-shadow border-2 border-transparent hover:border-tangy-yellow">
+              <a href="https://discoverselenium.com/?uid=102742703" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-br from-yellow-50 to-yellow-100 p-6 rounded-xl hover:shadow-lg transition-shadow border-2 border-transparent hover:border-tangy-yellow">
                 <div className="flex justify-between items-start mb-3">
                   <h3 className="text-xl font-bold text-tangy-yellow">Discover Selenium</h3>
                   <ExternalLink className="w-5 h-5 text-tangy-yellow" />
@@ -80,7 +80,7 @@ export default function ResourcesPage() {
                 <p className="text-gray-700">Essential trace mineral for immune function and antioxidant support</p>
               </a>
 
-              <a href="https://efasupplements.com/" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-br from-green-50 to-green-100 p-6 rounded-xl hover:shadow-lg transition-shadow border-2 border-transparent hover:border-green-600">
+              <a href="https://efasupplements.com/?uid=102742703" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-br from-green-50 to-green-100 p-6 rounded-xl hover:shadow-lg transition-shadow border-2 border-transparent hover:border-green-600">
                 <div className="flex justify-between items-start mb-3">
                   <h3 className="text-xl font-bold text-green-600">EFA Supplements</h3>
                   <ExternalLink className="w-5 h-5 text-green-600" />
@@ -88,7 +88,7 @@ export default function ResourcesPage() {
                 <p className="text-gray-700">Essential Fatty Acids - Nature's anti-inflammatory support</p>
               </a>
 
-              <a href="https://naturalmenopausehope.com/" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-br from-green-50 to-green-100 p-6 rounded-xl hover:shadow-lg transition-shadow border-2 border-transparent hover:border-green-600">
+              <a href="https://naturalmenopausehope.com/?uid=102742703" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-br from-green-50 to-green-100 p-6 rounded-xl hover:shadow-lg transition-shadow border-2 border-transparent hover:border-green-600">
                 <div className="flex justify-between items-start mb-3">
                   <h3 className="text-xl font-bold text-green-600">Natural Menopause Hope</h3>
                   <ExternalLink className="w-5 h-5 text-green-600" />
@@ -195,10 +195,10 @@ export default function ResourcesPage() {
               I'm here to help you navigate your health journey and choose the right supplements for your needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:855-949-3377" className="bg-health-blue hover:bg-blue-sky text-white font-semibold px-8 py-4 rounded-lg transition-colors inline-block">
-                Call: 855-949-3377
+              <a href="tel:307-381-1646" className="bg-health-blue hover:bg-blue-sky text-white font-semibold px-8 py-4 rounded-lg transition-colors inline-block">
+                Call: 307-381-1646
               </a>
-              <a href="mailto:questions@dailywithdoc.com" className="bg-glorious-sunset hover:bg-tangy-yellow text-white font-semibold px-8 py-4 rounded-lg transition-colors inline-block">
+              <a href="mailto:aj@nutrienshelp.com" className="bg-glorious-sunset hover:bg-tangy-yellow text-white font-semibold px-8 py-4 rounded-lg transition-colors inline-block">
                 Email Questions
               </a>
             </div>

@@ -11,6 +11,9 @@ export default function Home() {
             <h1 className="text-4xl md:text-6xl font-bold mb-6">
               Transform Your Health with Coach AJ
             </h1>
+            <p className="text-xl md:text-2xl mb-4 text-blue-100">
+              Certified Wholistic Health Coach (CWHC)
+            </p>
             <p className="text-xl md:text-2xl mb-8 text-blue-100">
               Empowering you through personalized health evaluations, AO Scan Technology, and foundational nutritional guidance
             </p>

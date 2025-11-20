@@ -8,9 +8,9 @@ export default function Footer() {
         <div className="grid md:grid-cols-4 gap-8">
           {/* About */}
           <div>
-            <h3 className="text-xl font-bold mb-4 text-tangy-yellow">Coach AJ</h3>
-            <p className="text-gray-300 text-sm">
-              Empowering individuals to take control of their health through personalized evaluations, cutting-edge technology, and foundational nutritional guidance.
+            <h3 className="text-xl font-bold mb-4 text-glorious-sunset">About Coach AJ</h3>
+            <p className="text-gray-300 text-sm mb-4">
+              Certified Wholistic Health Coach (CWHC) empowering individuals through personalized health evaluations, AO Scan Technology, and foundational nutritional guidance based on the Triangle of Disease and Mighty 90 essential nutrients.
             </p>
           </div>
 
@@ -29,10 +29,10 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4 text-tangy-yellow">Resources</h3>
             <ul className="space-y-2">
-              <li><a href="https://propowerdrink.com/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-tangy-yellow transition-colors text-sm">Pro Power Drink</a></li>
-              <li><a href="https://clearbrainfog.com/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-tangy-yellow transition-colors text-sm">Clear Brain Fog</a></li>
-              <li><a href="https://topshelfcollagen.com/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-tangy-yellow transition-colors text-sm">Top Shelf Collagen</a></li>
-              <li><a href="https://efasupplements.com/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-tangy-yellow transition-colors text-sm">EFA Supplements</a></li>
+              <li><a href="https://propowerdrink.com/?uid=102742703" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-tangy-yellow transition-colors text-sm">Pro Power Drink</a></li>
+              <li><a href="https://clearbrainfog.com/?uid=102742703" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-tangy-yellow transition-colors text-sm">Clear Brain Fog</a></li>
+              <li><a href="https://topshelfcollagen.com/?uid=102742703" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-tangy-yellow transition-colors text-sm">Top Shelf Collagen</a></li>
+              <li><a href="https://efasupplements.com/?uid=102742703" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-tangy-yellow transition-colors text-sm">EFA Supplements</a></li>
             </ul>
           </div>
 
@@ -40,7 +40,7 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4 text-tangy-yellow">Connect With Us</h3>
             <p className="text-gray-300 text-sm mb-4">
-              Questions? Call: <a href="tel:855-949-3377" className="text-tangy-yellow hover:text-glorious-sunset">855-949-3377</a>
+              Questions? Call: <a href="tel:307-381-1646" className="text-tangy-yellow hover:text-glorious-sunset">307-381-1646</a>
             </p>
             
             <div className="flex space-x-4">
