@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import { Metadata } from 'next'
 import { Activity, Brain, Heart, Waves, Zap, Clock, Radio } from 'lucide-react'
+import AOScanBookingButton from '@/components/AOScanBookingButton'
 
 export const metadata: Metadata = {
   title: 'AO Scan Technology | Coach AJ',
@@ -257,9 +258,7 @@ export default function AOScanPage() {
               <p className="mb-6 text-blue-100">
                 Schedule your personalized AO Scan session via Zoom. Please use a headset for optimal results.
               </p>
-              <Link href="/contact" className="bg-white text-health-blue px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors inline-block">
-                Schedule Your $50 AO Scan Session
-              </Link>
+              <AOScanBookingButton className="inline-block" />
             </div>
           </div>
         </div>

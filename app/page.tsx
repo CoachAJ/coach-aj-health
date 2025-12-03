@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { Activity, Heart, Zap, Users, BookOpen, Stethoscope } from 'lucide-react'
+import AOScanBookingButton from '@/components/AOScanBookingButton'
 
 export default function Home() {
   return (
@@ -58,9 +59,7 @@ export default function Home() {
               <p className="text-gray-700 mb-4">
                 Experience cutting-edge frequency-based assessment technology. $50 per session via Zoom (headset recommended).
               </p>
-              <Link href="/ao-scan" className="text-glorious-sunset font-semibold hover:text-tangy-yellow transition-colors">
-                Book Your AO Scan →
-              </Link>
+              <AOScanBookingButton />
             </div>
           </div>
         </div>
